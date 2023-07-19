@@ -1,0 +1,14 @@
+# TO DO:
+
+### STEP 1
+- Contents CSV 1 (Image Name, Caption, Inset Boolean)
+- Contents CSV 2 (Article URL, Article Name, Categories, Date, List of Image Names)
+- Draw ERD
+
+### STEP 2
+- Get most recent articles (example: past week or past 100 articles)
+- Perform same functionality as in step 1
+- Calculate statistics (To be discussed in further detail)
+
+### STEP 3
+- Research Image-in-Image and Picture-in-Picture Decomposition
