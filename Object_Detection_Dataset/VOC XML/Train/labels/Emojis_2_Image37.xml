@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>EmojiDataset</folder>
+   <filename>Emojis_2_Image37</filename>
+   <path>labels/Emojis_2_Image37</path>
+   <source>
+      <database>Unspecified</database>
+   </source>
+   <size>
+      <width>612</width>
+      <height>612</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>wow</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>387</xmin>
+         <ymin>191</ymin>
+         <xmax>597</xmax>
+         <ymax>401</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>haha</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>189</xmin>
+         <ymin>184</ymin>
+         <xmax>428</xmax>
+         <ymax>423</ymax>
+      </bndbox>
+   </object>
+</annotation>

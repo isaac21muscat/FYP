@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>EmojiDataset</folder>
+   <filename>Emojis_2_Image599</filename>
+   <path>labels/Emojis_2_Image599</path>
+   <source>
+      <database>Unspecified</database>
+   </source>
+   <size>
+      <width>640</width>
+      <height>366</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>care</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>280</xmin>
+         <ymin>170</ymin>
+         <xmax>422</xmax>
+         <ymax>312</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>sad</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>45</xmin>
+         <ymin>102</ymin>
+         <xmax>118</xmax>
+         <ymax>175</ymax>
+      </bndbox>
+   </object>
+</annotation>

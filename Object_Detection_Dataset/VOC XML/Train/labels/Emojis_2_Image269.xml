@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>EmojiDataset</folder>
+   <filename>Emojis_2_Image269</filename>
+   <path>labels/Emojis_2_Image269</path>
+   <source>
+      <database>Unspecified</database>
+   </source>
+   <size>
+      <width>498</width>
+      <height>500</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>like</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>246</xmin>
+         <ymin>211</ymin>
+         <xmax>379</xmax>
+         <ymax>344</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>haha</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>205</xmin>
+         <ymin>22</ymin>
+         <xmax>352</xmax>
+         <ymax>169</ymax>
+      </bndbox>
+   </object>
+</annotation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>EmojiDataset</folder>
+   <filename>Emojis_2_Image662</filename>
+   <path>labels/Emojis_2_Image662</path>
+   <source>
+      <database>Unspecified</database>
+   </source>
+   <size>
+      <width>500</width>
+      <height>334</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>love</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>434</xmin>
+         <ymin>200</ymin>
+         <xmax>500</xmax>
+         <ymax>278</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>love</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>419</xmin>
+         <ymin>60</ymin>
+         <xmax>491</xmax>
+         <ymax>132</ymax>
+      </bndbox>
+   </object>
+</annotation>
