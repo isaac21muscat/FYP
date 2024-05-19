@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>EmojiDataset</folder>
+   <filename>Emojis_1_Image1483</filename>
+   <path>labels/Emojis_1_Image1483</path>
+   <source>
+      <database>Unspecified</database>
+   </source>
+   <size>
+      <width>640</width>
+      <height>351</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>love</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>503</xmin>
+         <ymin>273</ymin>
+         <xmax>583</xmax>
+         <ymax>351</ymax>
+      </bndbox>
+   </object>
+</annotation>
