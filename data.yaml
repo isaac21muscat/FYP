@@ -1,6 +1,0 @@
-train: C:\Users\icemo\Documents\University\FYP\Project\FYP\Object_Detection_Dataset\YOLO\Train
-val: C:\Users\icemo\Documents\University\FYP\Project\FYP\Object_Detection_Dataset\YOLO\Val
-test: C:\Users\icemo\Documents\University\FYP\Project\FYP\Object_Detection_Dataset\YOLO\Test
-
-nc: 7
-names: ['angry', 'care', 'haha', 'like', 'love', 'sad', 'wow']
