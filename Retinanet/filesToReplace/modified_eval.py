@@ -15,7 +15,7 @@ limitations under the License.
 """
 
 from .anchors import compute_overlap
-from .visualization import draw_detections, draw_annotations
+from .modified_visualization import draw_detections, draw_annotations
 
 from tensorflow import keras
 import numpy as np
